@@ -1,0 +1,4 @@
+spacy==3.x
+nltk==3.x
+tensorflow==2.x
+keras==2.x
